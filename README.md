@@ -9,7 +9,7 @@ If you don't have python, either...
 If you wish the run the program with python, download the source files, extract all the contents to a directory, install any dependencies and then run Roulette_GUI_V2.py you will need to download the external python modules listed below.
 
 ### External modules used: Pillow, playsound
-### cx-Freeze was also used to create the binaries, however it has no use within the actual program itself.
+#### cx-Freeze was also used to create the binaries, however it has no use within the actual program itself.
 
 # Screenshot of the game 
 

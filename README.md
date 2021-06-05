@@ -19,17 +19,12 @@ Art drawn using Python's turtle module and modified in paint.net
 
 Sounds from: https://www.zapsplat.com/
 
-Screenshot of the game: https://i.imgur.com/GQeLNQt.png
-
-Video of the game: https://www.youtube.com/watch?v=VE6Z26afeTk
-
-
+Screenshot of the game: ![1](https://i.imgur.com/GQeLNQt.png)
 
 Issues 
 
 If you somehow run into an issue where your game instantly crashes on startup, delete the Game_data file in your install folder.
-Though it shouldn't happen, if it does then that means that your save data was corrupted. Sorry about that.
-
+Though it shouldn't happen, if it does then that means that your save data was corrupted somehow.
 
 
 Changelog

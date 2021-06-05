@@ -11,13 +11,17 @@ If you wish the run the program with python, download the source files, extract 
 ### External modules used: Pillow, playsound
 ### cx-Freeze was also used to create the binaries, however it has no use within the actual program itself.
 
+# Screenshot of the game 
+
+![1](https://i.imgur.com/GQeLNQt.png)
+
 # Credits
 
 Art drawn using Python's turtle module and modified in paint.net
 
 Sounds from [zapsplat](https://www.zapsplat.com/)
 
-Screenshot of the game: ![1](https://i.imgur.com/GQeLNQt.png)
+Me obviously
 
 # Issues 
 

@@ -1,33 +1,31 @@
-How to install
+# How to install
 
 If you don't have python, either...
 
-	1) Run Rou extract the folder to your preferred directory and run the exectuable.
+	1) Extract the roulette executable zip into any preferred directory and run the exectuable.
 
 	2) Download Roulette V2 Installer.msi, and install the program into your preferred directory.
 
-If you wish the run the program with python, download the Roulette_GUI_V2 Script.zip and extract all the contents to a folder then run Roulette_GUI_V2.py you will need to download the external python modules listed below.
+If you wish the run the program with python, download the source files, extract all the contents to a directory, install any dependencies and then run Roulette_GUI_V2.py you will need to download the external python modules listed below.
 
+### External modules used: Pillow, playsound
+### cx-Freeze was also used to create the binaries, however it has no use within the actual program itself.
 
-
-Additional notes about the program:
-
-External modules used: Pillow, playsound
-cx-Freeze was also used to create the build files/installer, however it has no use within the actual program itself.
+# Credits
 
 Art drawn using Python's turtle module and modified in paint.net
 
-Sounds from: https://www.zapsplat.com/
+Sounds from [zapsplat](https://www.zapsplat.com/)
 
 Screenshot of the game: ![1](https://i.imgur.com/GQeLNQt.png)
 
-Issues 
+# Issues 
 
 If you somehow run into an issue where your game instantly crashes on startup, delete the Game_data file in your install folder.
 Though it shouldn't happen, if it does then that means that your save data was corrupted somehow.
 
 
-Changelog
+# Changelog
 
 3/16/2021: Added roulette wheel to GUI.
 		   Changed from Roulette_GUI to Roulette_GUI_V2
